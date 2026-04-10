@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Article Analyzer",
+  "description": "Analyze research papers and articles using AI to extract summaries, key points, and keywords from URLs.",
+  "requestFramePermissions": []
+}
